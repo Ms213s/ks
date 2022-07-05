@@ -1,526 +1,977 @@
-#EXTM3U
-#EXTINF:-1 ,CCTV-1
-http://39.134.66.110/PLTV/88888888/224/3221225816/index.m3u8
-#EXTINF:-1 ,CCTV-1
-http://117.148.179.160/PLTV/88888888/224/3221231468/index.m3u8
-#EXTINF:-1 ,CCTV-1
-http://39.135.138.58:18890/PLTV/88888888/224/3221225618/index.m3u8
-#EXTINF:-1 ,CCTV-1
-http://39.135.138.58:18890/PLTV/88888888/224/3221225630/index.m3u8
-#EXTINF:-1 ,CCTV-2
-http://39.135.138.58:18890/PLTV/88888888/224/3221225619/index.m3u8
-#EXTINF:-1 ,CCTV-2
-http://111.20.41.252/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8
-#EXTINF:-1 ,CCTV-2
-http://39.135.138.60:18890/PLTV/88888910/224/3221225643/index.m3u8
-#EXTINF:-1 ,CCTV-3
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231682/index.m3u8
-#EXTINF:-1 ,CCTV-3
-http://111.63.117.13:6060/030000001000/CCTV-3/CCTV-3.m3u8
-#EXTINF:-1 ,CCTV-3
-http://39.134.67.226/PLTV/88888888/224/3221225799/index.m3u8
-#EXTINF:-1 ,CCTV-4
-http://117.148.179.160/PLTV/88888888/224/3221231726/index.m3u8
-#EXTINF:-1 ,CCTV-5
-http://39.135.138.59:18890/PLTV/88888910/224/3221225633/index.m3u8
-#EXTINF:-1 ,CCTV-5
-http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000064?fmt=ts2hls
-#EXTINF:-1 ,CCTV-6
-http://39.134.65.181/PLTV/88888888/224/3221225814/1.m3u8
-#EXTINF:-1 ,CCTV-6
-http://39.134.65.173/PLTV/88888888/224/3221225814/1.m3u8
-#EXTINF:-1 ,CCTV-6
-http://39.134.65.183/PLTV/88888888/224/3221225814/1.m3u8
-#EXTINF:-1 ,CCTV-7
-http://39.134.66.110/PLTV/88888888/224/3221225671/index.m3u8
-#EXTINF:-1 ,CCTV-7
-http://117.148.179.160/PLTV/88888888/224/3221231633/index.m3u8
-#EXTINF:-1 ,CCTV-8
-http://117.148.179.160/PLTV/88888888/224/3221231694/index.m3u8
-#EXTINF:-1 ,CCTV-8
-http://39.134.65.173/PLTV/88888888/224/3221225795/1.m3u8
-#EXTINF:-1 ,CCTV-8
-http://39.134.65.183/PLTV/88888888/224/3221225795/1.m3u8
-#EXTINF:-1 ,CCTV-9
-http://39.134.66.110/PLTV/88888888/224/3221225676/index.m3u8
-#EXTINF:-1 ,CCTV-9
-http://39.135.138.58:18890/PLTV/88888888/224/3221225626/index.m3u8
-#EXTINF:-1 ,CCTV-9
-http://39.135.138.58:18890/PLTV/88888888/224/3221225646/index.m3u8
-#EXTINF:-1 ,CCTV-9
-http://39.134.65.179/PLTV/88888888/224/3221225676/1.m3u8
-#EXTINF:-1 ,CCTV-10
-http://39.134.66.110/PLTV/88888888/224/3221225677/index.m3u8
-#EXTINF:-1 ,CCTV-10
-http://39.134.65.164/PLTV/88888888/224/3221225677/1.m3u8
-#EXTINF:-1 ,CCTV-10
-http://39.134.65.181/PLTV/88888888/224/3221225677/1.m3u8
-#EXTINF:-1 ,CCTV-11
-http://iptv.tvfix.org/hls/cctv11.m3u8
-#EXTINF:-1 ,CCTV-11
-http://111.40.196.9/PLTV/88888888/224/3221225496/index.m3u8
-#EXTINF:-1 ,CCTV-11
-http://39.134.65.179/PLTV/88888888/224/3221225517/1.m3u8
-#EXTINF:-1 ,CCTV-12
-http://39.134.65.179/PLTV/88888888/224/3221225669/1.m3u8
-#EXTINF:-1 ,CCTV-12
-http://39.134.65.164/PLTV/88888888/224/3221225669/1.m3u8
-#EXTINF:-1 ,CCTV-12
-http://39.134.65.181/PLTV/88888888/224/3221225669/1.m3u8
-#EXTINF:-1 ,CCTV-13
-http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8
-#EXTINF:-1 ,CCTV-13
-http://39.135.138.59:18890/PLTV/88888910/224/3221225638/index.m3u8
-#EXTINF:-1 ,CCTV-14
-http://39.135.138.58:18890/PLTV/88888888/224/3221225640/index.m3u8
-#EXTINF:-1 ,CCTV-14
-http://111.40.196.9/PLTV/88888888/224/3221225573/index.m3u8
-#EXTINF:-1 ,CCTV-14
-http://39.134.65.179/PLTV/88888888/224/3221225674/1.m3u8
-#EXTINF:-1 ,CCTV-15
-http://39.135.138.60:18890/PLTV/88888910/224/3221225641/index.m3u8
-#EXTINF:-1 ,CCTV-15
-http://39.134.65.181/PLTV/88888888/224/3221225513/1.m3u8
-#EXTINF:-1 ,CCTV-15
-http://39.134.65.173/PLTV/88888888/224/3221225513/1.m3u8
-#EXTINF:-1 ,CCTV-16
-http://39.135.138.60:18890/TVOD/88888910/224/3221226233/index.m3u8
-#EXTINF:-1 ,CCTV-16
-http://39.135.138.60:18890/TVOD/88888910/224/3221226230/index.m3u8
-#EXTINF:-1 ,CCTV-17
-http://39.134.66.110/PLTV/88888888/224/3221225708/index.m3u8
-#EXTINF:-1 ,中央新影-新科动漫
-http://cctvtxyh5ca.liveplay.myqcloud.com/live/xinkedongman_2/index.m3u8
-#EXTINF:-1 ,CNC中文
-http://39.135.138.59:18890/PLTV/88888910/224/3221225694/index.m3u8
-#EXTINF:-1 ,CNC中文
-http://39.134.115.163:8080/PLTV/88888910/224/3221225694/index.m3u8
-#EXTINF:-1 ,CNC英文
-http://39.135.138.59:18890/PLTV/88888910/224/3221225693/index.m3u8
-#EXTINF:-1 ,CNC英文
-http://39.134.115.163:8080/PLTV/88888910/224/3221225693/index.m3u8
-#EXTINF:-1 ,北京卫视
-http://39.135.138.60:18890/PLTV/88888910/224/3221225674/index.m3u8
-#EXTINF:-1 ,北京卫视
-http://39.135.138.60:18890/PLTV/88888910/224/3221225673/index.m3u8
-#EXTINF:-1 ,北京卫视
-http://183.207.249.174/ott.js.chinamobile.com/PLTV/3/224/3221227390/index.m3u8
-#EXTINF:-1 ,北京卫视
-http://183.207.249.169/ott.js.chinamobile.com/PLTV/3/224/3221225574/index.m3u8
-#EXTINF:-1 ,湖南卫视
-http://117.148.179.135/PLTV/88888888/224/3221230206/index.m3u8
-#EXTINF:-1 ,湖南卫视
-http://117.148.179.148/PLTV/88888888/224/3221230824/index.m3u8
-#EXTINF:-1 ,湖北卫视
-http://39.135.138.59:18890/PLTV/88888910/224/3221225699/index.m3u8?fmt=ts2hls
-#EXTINF:-1 ,江苏卫视
-http://39.135.138.59:18890/PLTV/88888910/224/3221225743/index.m3u8
-#EXTINF:-1 ,江苏卫视
-http://39.135.138.60:18890/PLTV/88888910/224/3221225702/index.m3u8
-#EXTINF:-1 ,浙江卫视
-http://39.135.138.60:18890/PLTV/88888910/224/3221225703/index.m3u8
-#EXTINF:-1 ,东方卫视
-http://39.135.138.59:18890/PLTV/88888910/224/3221225659/index.m3u8
-#EXTINF:-1 ,东方卫视
-http://39.135.138.59:18890/PLTV/88888910/224/3221225658/index.m3u8
-#EXTINF:-1 ,东方卫视
-http://39.134.115.163:8080/PLTV/88888910/224/3221225658/index.m3u8?fmt=ts2hls
-#EXTINF:-1 ,深圳卫视
-http://39.135.138.60:18890/PLTV/88888910/224/3221225741/index.m3u8?fmt=ts2hls
-#EXTINF:-1 ,深圳卫视
-http://39.135.138.60:18890/PLTV/88888910/224/3221225700/index.m3u8?fmt=ts2hls
-#EXTINF:-1 ,深圳卫视
-http://183.207.248.139/ott.js.chinamobile.com/PLTV/3/224/3221227442/index.m3u8
-#EXTINF:-1 ,广东卫视
-http://39.135.138.60:18890/PLTV/88888910/224/3221225701/index.m3u8
-#EXTINF:-1 ,广东卫视
-http://183.207.248.136/ott.js.chinamobile.com/PLTV/3/224/3221227249/index.m3u8
-#EXTINF:-1 ,广东卫视
-http://39.134.115.163:8080/PLTV/88888910/224/3221225742/index.m3u8
-#EXTINF:-1 ,广西卫视
-http://39.135.138.58:18890/PLTV/88888888/224/3221226211/index.m3u8?fmt=ts2hls
-#EXTINF:-1 ,广西卫视
-http://39.134.115.163:8080/PLTV/88888910/224/3221225731/index.m3u8?fmt=ts2hls
-#EXTINF:-1 ,安徽卫视
-http://39.135.138.59:18890/PLTV/88888910/224/3221225691/index.m3u8?fmt=ts2hls
-#EXTINF:-1 ,安徽卫视
-http://39.135.138.59:18890/PLTV/88888910/224/3221225737/index.m3u8?fmt=ts2hls
-#EXTINF:-1 ,安徽卫视
-http://183.207.249.174/ott.js.chinamobile.com/PLTV/3/224/3221225634/index.m3u8
-#EXTINF:-1 ,安徽卫视
-http://183.207.249.235/ott.js.chinamobile.com/PLTV/3/224/3221227498/index.m3u8
-#EXTINF:-1 ,安徽卫视
-http://183.207.249.136/ott.js.chinamobile.com/PLTV/3/224/3221227558/index.m3u8
-#EXTINF:-1 ,河南卫视
-http://39.135.138.58:18890/PLTV/88888888/224/3221225611/index.m3u8?fmt=ts2hls
-#EXTINF:-1 ,河北卫视
-http://39.135.138.58:18890/PLTV/88888888/224/3221225610/index.m3u8?fmt=ts2hls
-#EXTINF:-1 ,河北卫视
-http://39.135.138.60:18890/PLTV/88888910/224/3221225732/index.m3u8?fmt=ts2hls
-#EXTINF:-1 ,河北卫视
-http://live2.plus.hebtv.com/hbwsx/hd/live.m3u8
-#EXTINF:-1 ,东南卫视
-http://39.135.138.59:18890/PLTV/88888910/224/3221225657/index.m3u8
-#EXTINF:-1 ,东南卫视
-http://117.169.120.140:8080/live/dongnanstv/.m3u8
-#EXTINF:-1 ,东南卫视
-http://39.134.115.163:8080/PLTV/88888910/224/3221225657/index.m3u8
-#EXTINF:-1 ,四川卫视
-http://39.135.138.59:18890/PLTV/88888910/224/3221225733/index.m3u8
-#EXTINF:-1 ,四川卫视
-http://39.134.115.163:8080/PLTV/88888910/224/3221225733/index.m3u8
-#EXTINF:-1 ,南方卫视
-http://111.12.101.23:6610/PLTV/77777777/224/3221225748/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,江西卫视
-http://39.135.138.59:18890/PLTV/88888910/224/3221225746/index.m3u8
-#EXTINF:-1 ,江西卫视
-http://39.135.138.60:18890/PLTV/88888910/224/3221225705/index.m3u8
-#EXTINF:-1 ,江西卫视
-http://117.169.120.140:8080/live/jiangxistv/.m3u8
-#EXTINF:-1 ,重庆卫视
-http://39.135.138.59:18890/PLTV/88888910/224/3221225734/index.m3u8
-#EXTINF:-1 ,重庆卫视
-http://39.135.138.60:18890/PLTV/88888910/224/3221225692/index.m3u8
-#EXTINF:-1 ,重庆卫视
-http://39.134.115.163:8080/PLTV/88888910/224/3221225734/index.m3u8
-#EXTINF:-1 ,山东卫视
-http://39.135.138.59:18890/PLTV/88888910/224/3221225738/index.m3u8
-#EXTINF:-1 ,山东卫视
-http://39.135.138.59:18890/PLTV/88888910/224/3221225697/index.m3u8
-#EXTINF:-1 ,山西卫视
-http://39.135.138.59:18890/PLTV/88888910/224/3221225730/index.m3u8?fmt=ts2hlsts
-#EXTINF:-1 ,山西卫视
-http://39.134.115.163:8080/PLTV/88888910/224/3221225730/index.m3u8?fmt=ts2hlsts
-#EXTINF:-1 ,陕西卫视
-http://39.134.115.163:8080/PLTV/88888910/224/3221225729/index.m3u8
-#EXTINF:-1 ,天津卫视
-http://39.135.138.60:18890/PLTV/88888910/224/3221225698/index.m3u8
-#EXTINF:-1 ,天津卫视
-http://39.135.138.60:18890/PLTV/88888910/224/3221225739/index.m3u8
-#EXTINF:-1 ,天津卫视
-http://117.169.120.140:8080/live/hdtianjinstv/.m3u8
-#EXTINF:-1 ,辽宁卫视
-http://39.135.138.60:18890/PLTV/88888910/224/3221225735/index.m3u8
-#EXTINF:-1 ,辽宁卫视
-http://39.135.138.59:18890/PLTV/88888910/224/3221225696/index.m3u8
-#EXTINF:-1 ,辽宁卫视
-http://183.207.248.168/ott.js.chinamobile.com/PLTV/3/224/3221227380/index.m3u8
-#EXTINF:-1 ,吉林卫视
-http://39.134.115.163:8080/PLTV/88888910/224/3221225680/index.m3u8
-#EXTINF:-1 ,吉林卫视
-http://39.135.138.59:18890/PLTV/88888910/224/3221225680/index.m3u8
-#EXTINF:-1 ,黑龙江卫视
-http://39.135.138.59:18890/PLTV/88888910/224/3221225736/index.m3u8?fmt=ts2hls
-#EXTINF:-1 ,黑龙江卫视
-http://39.135.138.59:18890/PLTV/88888910/224/3221225690/index.m3u8?fmt=ts2hls
-#EXTINF:-1 ,黑龙江卫视
-http://183.207.248.139/ott.js.chinamobile.com/PLTV/3/224/3221227492/index.m3u8?fmt=ts2hls
-#EXTINF:-1 ,黑龙江卫视
-http://183.207.249.165/ott.js.chinamobile.com/PLTV/3/224/3221227514/index.m3u8?fmt=ts2hls
-#EXTINF:-1 ,青海卫视
-http://39.135.138.60:18890/PLTV/88888910/224/3221225727/index.m3u8
-#EXTINF:-1 ,青海卫视
-http://39.134.115.163:8080/PLTV/88888910/224/3221225727/index.m3u8
-#EXTINF:-1 ,内蒙古卫视
-http://117.169.120.140:8080/live/neimenggustv/.m3u8
-#EXTINF:-1 ,内蒙古卫视
-http://39.135.138.59:18890/PLTV/88888910/224/3221225667/index.m3u8
-#EXTINF:-1 ,内蒙古卫视
-http://39.134.115.163:8080/PLTV/88888910/224/3221225667/index.m3u8
-#EXTINF:-1 ,甘肃卫视
-http://39.134.115.163:8080/PLTV/88888910/224/3221225724/index.m3u8
-#EXTINF:-1 ,贵州卫视
-http://39.135.138.58:18890/PLTV/88888888/224/3221225483/index.m3u8?fmt=ts2hls
-#EXTINF:-1 ,贵州卫视
-http://39.134.115.163:8080/PLTV/88888910/224/3221225728/index.m3u8
-#EXTINF:-1 ,贵州卫视
-http://39.135.138.59:18890/PLTV/88888910/224/3221225728/index.m3u8?fmt=ts2hls
-#EXTINF:-1 ,宁夏卫视
-http://39.135.138.59:18890/PLTV/88888910/224/3221225726/index.m3u8
-#EXTINF:-1 ,宁夏卫视
-http://117.169.120.140:8080/live/ningxiastv/.m3u8
-#EXTINF:-1 ,宁夏卫视
-http://39.134.115.163:8080/PLTV/88888910/224/3221225726/index.m3u8
-#EXTINF:-1 ,云南卫视
-http://39.135.138.59:18890/PLTV/88888910/224/3221225664/index.m3u8
-#EXTINF:-1 ,云南卫视
-http://39.134.115.163:8080/PLTV/88888910/224/3221225664/index.m3u8
-#EXTINF:-1 ,海南卫视
-http://39.134.115.163:8080/PLTV/88888910/224/3221225722/index.m3u8
-#EXTINF:-1 ,海南卫视
-http://39.135.138.60:18890/PLTV/88888910/224/3221225722/index.m3u8
-#EXTINF:-1 ,新疆卫视
-http://111.12.101.23:6610/PLTV/77777777/224/3221225788/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,新疆卫视
-http://39.134.115.163:8080/PLTV/88888910/224/3221225725/index.m3u8
-#EXTINF:-1 ,新疆卫视
-http://39.135.138.59:18890/PLTV/88888910/224/3221225725/index.m3u8
-#EXTINF:-1 ,西藏卫视
-http://39.135.138.59:18890/PLTV/88888910/224/3221225723/index.m3u8
-#EXTINF:-1 ,西藏卫视
-http://39.134.115.163:8080/PLTV/88888910/224/3221225723/index.m3u8
-#EXTINF:-1 ,上海都市
-http://183.207.255.188/live/program/live/ylpdhd/4000000/mnf.m3u8?fmt=ts2hls
-#EXTINF:-1 ,上海都市
-http://shbu.live.bestvcdn.com.cn:8080/live/program/live/ylpdhd/2300000/mnf.m3u8?fmt=ts2hlsts
-#EXTINF:-1 ,北京文艺
-http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s2/index.m3u8?time=
-#EXTINF:-1 ,北京青年
-http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s8/index.m3u8?time=
-#EXTINF:-1 ,北京生活
-http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s7/index.m3u8?time=
-#EXTINF:-1 ,北京科教
-http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s3/index.m3u8?time=
-#EXTINF:-1 ,北京财经
-http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s5/index.m3u8?time=
-#EXTINF:-1 ,北京新闻
-http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8?
-#EXTINF:-1 ,北京通州
-http://pull.dayuntongzhou.com/live/tztv.m3u8
-#EXTINF:-1 ,湘潭公共频道
-http://live.hnxttv.com:9601/live/dspd/800K/tzwj_video.m3u8
-#EXTINF:-1 ,江苏金陵之声
-http://lzlive.vojs.cn/Hd2hIgM/92/live.m3u8
-#EXTINF:-1 ,南京综合
-http://live.nbs.cn/channels/njtv/xwzh/m3u8:500k/live.m3u8
-#EXTINF:-1 ,南京娱乐
-http://live.nbs.cn/channels/njtv/ylpd/m3u8:500k/live.m3u8
-#EXTINF:-1 ,南京生活
-http://live.nbs.cn/channels/njtv/shpd/m3u8:500k/live.m3u8
-#EXTINF:-1 ,南京科教
-http://live.nbs.cn/channels/njtv/jkpd/m3u8:500k/live.m3u8
-#EXTINF:-1 ,徐州TV-4
-http://183.207.249.15/PLTV/3/224/3221225951/index.m3u8
-#EXTINF:-1 ,连云港新闻
-http://183.207.248.175/ott.js.chinamobile.com/PLTV/3/224/3221227758/index.m3u8
-#EXTINF:-1 ,常州公共
-http://183.207.249.176/ott.js.chinamobile.com/PLTV/3/224/3221227905/index.m3u8
-#EXTINF:-1 ,常州新闻综合
-http://183.207.248.134/ott.js.chinamobile.com/PLTV/3/224/3221227899/index.m3u8
-#EXTINF:-1 ,常州新闻综合
-http://183.207.248.167/ott.js.chinamobile.com/PLTV/3/224/3221227752/index.m3u8
-#EXTINF:-1 ,合肥综合
-http://223.244.92.30:808/2774goN/1000/live.m3u8
-#EXTINF:-1 ,合肥生活
-http://223.244.92.30:808/xcd72q7/1000/live.m3u8
-#EXTINF:-1 ,合肥休息
-http://223.244.92.30:808/52e58Sh/1000/live.m3u8
-#EXTINF:-1 ,浙江国际
-http://hw-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
-#EXTINF:-1 ,浙江教育
-http://hw-m-l.cztv.com/channels/lantian/channel04/720p.m3u8
-#EXTINF:-1 ,浙江钱江
-http://hw-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8
-#EXTINF:-1 ,浙江休闲
-http://hw-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8
-#EXTINF:-1 ,浙江经济
-http://hw-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8
-#EXTINF:-1 ,浙江新闻
-http://hw-m-l.cztv.com/channels/lantian/channel07/720p.m3u8
-#EXTINF:-1 ,浙江数码时代
-http://hw-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
-#EXTINF:-1 ,浙江教科影视
-http://hw-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
-#EXTINF:-1 ,杭州HTV-1
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229307/index.m3u8?fmt=ts2hlsts
-#EXTINF:-1 ,杭州HTV-2
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229310/index.m3u8?fmt=ts2hlsts
-#EXTINF:-1 ,杭州HTV-3
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229313/index.m3u8?fmt=ts2hlsts
-#EXTINF:-1 ,杭州HTV-5
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229316/index.m3u8?fmt=ts2hlsts
-#EXTINF:-1 ,绍兴综合
-http://live.shaoxing.com.cn/video/s10001-sxhb/index.m3u8
-#EXTINF:-1 ,湖州综合
-http://live.plus.hugd.com/xwzhpd/sd/live.m3u8
-#EXTINF:-1 ,瑞安综合
-http://stream.rabtv.cn/xwzh/sd/live.m3u8
-#EXTINF:-1 ,瑞安文化
-http://stream.rabtv.cn/jjwh/sd/live.m3u8
-#EXTINF:-1 ,舟山综合
-http://live.wifizs.cn/xwzh/sd/live.m3u8
-#EXTINF:-1 ,舟山公共
-http://stream.wifizs.cn/ggsh/sd/live.m3u8
-#EXTINF:-1 ,萧山综合
-http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
-#EXTINF:-1 ,萧山生活
-http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
-#EXTINF:-1 ,象山综合
-http://l.cztvcloud.com/channels/lantian/SXxiangshan1/720p.m3u8
-#EXTINF:-1 ,永嘉综合
-http://l.cztvcloud.com/channels/lantian/SXyongjia1/720p.m3u8
-#EXTINF:-1 ,金华综合
-http://live.plus.jinhua.com.cn/xwzh/playlist.m3u8
-#EXTINF:-1 ,余杭综合
-http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8
-#EXTINF:-1 ,福州综合
-http://live.zohi.tv/video/s10001-FZTV-1/index.m3u8
-#EXTINF:-1 ,福州生活
-http://live.zohi.tv/video/s10001-shpd-3/index.m3u8
-#EXTINF:-1 ,龙岩综合
-http://live.lytv.net.cn/zhpwd/hd/live.m3u8
-#EXTINF:-1 ,龙岩公共
-http://live.lytv.net.cn/ggpd/sd/live.m3u8
-#EXTINF:-1 ,万州综合
-http://wanzhoulive.cbg.cn:8017/iTXwrGs/800/live.m3u8
-#EXTINF:-1 ,璧山综合
-http://222.179.42.129:8181/hls1.m3u8
-#EXTINF:-1 ,广东文化
-https://glive.grtn.cn/live/wenhua_test0203.m3u8
-#EXTINF:-1 ,深圳蛇口
-http://218.17.99.211:82/hls/d4encs75.m3u8
-#EXTINF:-1 ,深圳都市
-http://ye23.win/iptv/sztv.php?id=2
-#EXTINF:-1 ,深圳公共
-http://ye23.win/iptv/sztv.php?id=4
-#EXTINF:-1 ,深圳财经生活
-http://ye23.win/iptv/sztv.php?id=5
-#EXTINF:-1 ,深圳娱乐
-http://ye23.win/iptv/sztv.php?id=6
-#EXTINF:-1 ,深圳移动
-http://ye23.win/iptv/sztv.php?id=8
-#EXTINF:-1 ,深圳DV生活
-http://ye23.win/iptv/sztv.php?id=10
-#EXTINF:-1 ,深圳国际
-http://ye23.win/iptv/sztv.php?id=11
-#EXTINF:-1 ,昆明新闻综合
-https://devlivepull.migucloud.com/live/01YCQY7M_C0.flv
-#EXTINF:-1 ,昆明公共
-https://devlivepull.migucloud.com/live/UD0YLY2G_C0_3.flv
-#EXTINF:-1 ,昆明经济生活
-https://devlivepull.migucloud.com/live/JT9JEQ54_C0_2.flv
-#EXTINF:-1 ,昆明科学教育
-https://devlivepull.migucloud.com/live/ZBXWIMTD_C0_2.flv
-#EXTINF:-1 ,昆明影视综艺
-https://devlivepull.migucloud.com/live/KYLNJWFD_C0_2.flv
-#EXTINF:-1 ,济宁教育
-http://lives.jnnews.tv/video/s10001-JTV2/index.m3u8
-#EXTINF:-1 ,济宁综合
-http://lives.jnnews.tv/video/s10001-JNTV-1/index.m3u8
-#EXTINF:-1 ,威海综合
-https://jsylivealone302.iqilu.com/live/weihai_tv01/index.m3u8
-#EXTINF:-1 ,威海公共
-https://jsylivealone302.iqilu.com/live/weihai_tv02/index.m3u8
-#EXTINF:-1 ,威海海洋
-https://jsylivealone302.iqilu.com/live/weihai_tv03/index.m3u8
-#EXTINF:-1 ,商河综合
-https://jsylivealone302.iqilu.com/live/shanghe_tv01/index.m3u8
-#EXTINF:-1 ,商河影视
-https://jsylivealone302.iqilu.com/live/shanghe_tv02/index.m3u8
-#EXTINF:-1 ,莱州综合
-https://jsylivealone302.iqilu.com/live/laizhou_tv01/index.m3u8?fmt=ts2hls
-#EXTINF:-1 ,莱州商务
-https://jsylivealone302.iqilu.com/live/laizhou_tv02/index.m3u8?fmt=ts2hls
-#EXTINF:-1 ,蓬莱新闻
-https://jsylivealone302.iqilu.com/live/penglai_tv01/index.m3u8
-#EXTINF:-1 ,蓬莱综合
-https://jsylivealone302.iqilu.com/live/penglai_tv02/index.m3u8
-#EXTINF:-1 ,河北都市
-http://live3.plus.hebtv.com/hbdsx/hd/live.m3u8
-#EXTINF:-1 ,河北公共
-http://live7.plus.hebtv.com/hbggx/hd/live.m3u8
-#EXTINF:-1 ,河北经济
-http://live2.plus.hebtv.com/jjshx/hd/live.m3u8
-#EXTINF:-1 ,延安综合
-http://live.cloud.yanews.cn/video/s10001-YATV-1/index.m3u8
-#EXTINF:-1 ,延安公共
-http://live.cloud.yanews.cn/video/s10001-YATV-2/index.m3u8
-#EXTINF:-1 ,延边卫视
-http://live.ybtvyun.com/video/s10006-b316b550fd1f/index.m3u8
-#EXTINF:-1 ,延边朝语
-http://live.ybtvyun.com/video/s10006-bcdce1b448cc/index.m3u8
-#EXTINF:-1 ,延边文化
-http://live.ybtvyun.com/video/s10006-3b9a54a11148/index.m3u8
-#EXTINF:-1 ,西安新闻综合
-http://stream2.xiancity.cn/xatv1/sd/live.m3u8
-#EXTINF:-1 ,西安新闻综合
-http://stream2.xiancity.cn/xatv1/playlist.m3u8
-#EXTINF:-1 ,西安都市
-http://stream2.xiancity.cn/xatv2/sd/live.m3u8
-#EXTINF:-1 ,西安都市
-http://stream2.xiancity.cn/xatv2/playlist.m3u8
-#EXTINF:-1 ,西安商务资讯
-http://stream2.xiancity.cn/xatv3/playlist.m3u8
-#EXTINF:-1 ,西安影视
-http://stream2.xiancity.cn/xatv4/playlist.m3u8
-#EXTINF:-1 ,西安丝路
-http://stream2.xiancity.cn/xatv5/playlist.m3u8
-#EXTINF:-1 ,西安丝路
-http://stream2.xiancity.cn/xatv5/sd/live.m3u8
-#EXTINF:-1 ,安康综合
-https://hls-sxak.sobeylive.com/xjhsyapp2019/sxakzhpd.m3u8
-#EXTINF:-1 ,安康公共
-https://hls-sxak.sobeylive.com/xjhsyapp2019/sxakggpd.m3u8
-#EXTINF:-1 ,江西教育
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226197/index.m3u8?fmt=ts2hls
-#EXTINF:-1 ,江西新闻
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225615/index.m3u8?fmt=ts2hls
-#EXTINF:-1 ,江西新闻
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225576/index.m3u8?fmt=ts2hls
-#EXTINF:-1 ,江西经济生活
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226206/index.m3u8?fmt=ts2hls
-#EXTINF:-1 ,江西公共农业
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225578/index.m3u8?fmt=ts2hls
-#EXTINF:-1 ,江西影视旅游
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225579/index.m3u8?fmt=ts2hls
-#EXTINF:-1 ,江西经济生活
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225580/index.m3u8?fmt=ts2hls
-#EXTINF:-1 ,江西都市
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225584/index.m3u8?fmt=ts2hls
-#EXTINF:-1 ,九江公共
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225775/index.m3u8
-#EXTINF:-1 ,九江公共
-http://39.134.115.163:8080/PLTV/88888910/224/3221225775/index.m3u8
-#EXTINF:-1 ,九江生活
-http://39.135.138.59:18890/PLTV/88888910/224/3221225775/index.m3u8
-#EXTINF:-1 ,九江新闻
-http://39.135.138.59:18890/PLTV/88888910/224/3221225774/index.m3u8
-#EXTINF:-1 ,九江新闻
-http://39.134.115.163:8080/PLTV/88888910/224/3221225774/index.m3u8
-#EXTINF:-1 ,南昌新闻综合
-http://39.134.116.30:8080/PLTV/88888910/224/3221225774/index.m3u8
-#EXTINF:-1 ,南昌公共
-http://39.134.116.30:8080/PLTV/88888910/224/3221225775/index.m3u8
-#EXTINF:-1 ,点掌财经
-http://cclive2.aniu.tv/live/anzb.m3u8
-#EXTINF:-1 ,香港卫视HKS
-http://zhibo.hkstv.tv/livestream/mutfysrq.flv
-#EXTINF:-1 ,香港卫视HKS
-http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-#EXTINF:-1 ,大爱1台
-https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-#EXTINF:-1 ,大爱2台
-https://pulltv2.wanfudaluye.com/live/tv2.m3u8
-#EXTINF:-1 ,大爱2台
-https://pulltv1.wanfudaluye.com/live/tv2.m3u8
-#EXTINF:-1 ,好消息电视台2
-http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8
-#EXTINF:-1 ,好消息电视台1
-http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
-#EXTINF:-1 ,澳亚卫视
-http://live.mastvnet.com:800/4rlff1m/live.m3u8
-CHC高清电影,http://111.20.33.93/PLTV/88888893/224/3221226463/index.m3u8
-CHC高清电影,http://111.20.106.13:6610/yinhe/2/ch00000090990000002065/index.m3u8?
-黑莓电影,http://39.135.138.60:18890/PLTV/88888910/224/3221225718/index.m3u8
-黑莓电影,http://111.40.196.9/PLTV/88888888/224/3221225610/index.m3u8
-黑莓电影,http://39.135.138.58:18890/PLTV/88888888/224/3221225718/index.m3u8
-黑莓电影,http://39.135.138.58:18890/PLTV/88888888/224/3221225764/index.m3u8
-爱奇艺-热播电视剧,http://112.49.51.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c57_lb_212_600_t10/c57_lb_212_600_t10.m3u8
-爱奇艺-票房收割机,http://112.49.51.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c56_lb_184_600_t10/c56_lb_184_600_t10.m3u8
-爱奇艺-收视冠军,http://112.49.51.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c56_lb_230_720P_t10/c56_lb_230_720P_t10.m3u8
-爱奇艺-经典港片,http://112.49.51.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c51_lb_110_600_t10/c51_lb_110_600_t10.m3u8
-爱奇艺-惊悚午夜,http://112.49.51.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c51_lb_115_600_t10/c51_lb_115_600_t10.m3u8
-爱奇艺-军旅剧场,http://112.49.51.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c55_lb_144_600_t10/c55_lb_144_600_t10.m3u8
-爱奇艺-抗战剧场,http://112.49.51.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c54_lb_163_600_t10/c54_lb_163_600_t10.m3u8
-爱奇艺-红色剧场,http://112.49.51.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c56_lb_179_600_t10/c56_lb_179_600_t10.m3u8
-爱奇艺-宫廷正剧,http://112.49.48.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c54_lb_152_600_t10/c54_lb_152_600_t10.m3u8
-爱奇艺-家庭剧场,http://112.49.51.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c55_lb_158_600_t10/c55_lb_158_600_t10.m3u8
-爱奇艺-军事观察,http://112.49.51.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c57_lb_239_720P_t10/c57_lb_239_720P_t10.m3u8
-午夜失眠剧场,http://117.148.179.134/PLTV/88888888/224/3221231516/index.m3u8?fmt=ts2hlsts
-军旅剧场,http://117.148.179.145/PLTV/88888888/224/3221231585/index.m3u8
-红色谍战剧场,http://117.148.179.169/PLTV/88888888/224/3221231627/index.m3u8?fmt=ts2hlsts
-黄金剧场,http://117.148.179.183/PLTV/88888888/224/3221231637/index.m3u8
-金庸频道,http://117.148.179.132/PLTV/88888888/224/3221231477/index.m3u8
-武侠剧场,http://117.148.179.160/PLTV/88888888/224/3221231763/index.m3u8
-少林剧场,http://117.148.179.160/PLTV/88888888/224/3221231628/index.m3u8
-追剧少女,http://117.148.179.179/PLTV/88888888/224/3221231643/index.m3u8
+DAUMPLAYLIST
+playname=http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000002000021303&livemode=1&channel-id=ystenlive&test/PLTV/=01
+playtime=20544
+topindex=96
+saveplaypos=0
+1*file*https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
+1*title*凤凰中文
+2*file*http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
+2*title*凤凰资讯台
+3*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000021973&livemode=1&channel-id=ystenlive&test/PLTV/=01
+3*title*CCTV-1综合
+4*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000021973&livemode=1&channel-id=ystenlive&test/PLTV/=03
+4*title*CCTV-1综合
+5*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000021973&livemode=1&channel-id=ystenlive&test/PLTV/=04
+5*title*CCTV-1综合
+6*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000021973&livemode=1&channel-id=ystenlive&test/PLTV/=05
+6*title*CCTV-1综合
+7*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000021973&livemode=1&channel-id=ystenlive&test/PLTV/=06
+7*title*CCTV-1综合
+8*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000021973&livemode=1&channel-id=ystenlive&test/PLTV/=09
+8*title*CCTV-1综合
+9*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000021973&livemode=1&channel-id=ystenlive&test/PLTV/=10
+9*title*CCTV-1综合
+10*file*http://39.135.49.20:6610/PLTV/88888888/224/3221227014/1.m3u8?servicetype=1
+10*title*CCTV-1综合
+11*file*http://39.135.49.20:6610/PLTV/88888888/224/3221226995/1.m3u8?servicetype=1
+11*title*CCTV-1综合
+12*file*http://117.148.179.156/PLTV/88888888/224/3221232362/index.m3u8
+12*title*CCTV-2财经
+13*file*http://117.148.179.147/PLTV/88888888/224/3221231678/index.m3u8
+13*title*CCTV-2财经
+14*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000012442&livemode=1&channel-id=ystenlive&test/PLTV/=01
+14*title*CCTV-2财经
+15*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000012442&livemode=1&channel-id=ystenlive&test/PLTV/=03
+15*title*CCTV-2财经
+16*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000012442&livemode=1&channel-id=ystenlive&test/PLTV/=04
+16*title*CCTV-2财经
+17*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000012442&livemode=1&channel-id=ystenlive&test/PLTV/=05
+17*title*CCTV-2财经
+18*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000012442&livemode=1&channel-id=ystenlive&test/PLTV/=06
+18*title*CCTV-2财经
+19*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000012442&livemode=1&channel-id=ystenlive&test/PLTV/=09
+19*title*CCTV-2财经
+20*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000012442&livemode=1&channel-id=ystenlive&test/PLTV/=10
+20*title*CCTV-2财经
+21*file*http://39.135.49.20:6610/PLTV/88888888/224/3221226915/1.m3u8?servicetype=1
+21*title*CCTV-2财经
+22*file*http://39.135.49.20:6610/PLTV/88888888/224/3221226795/1.m3u8?servicetype=1
+22*title*CCTV-2财经
+23*file*http://117.148.179.140/PLTV/88888888/224/3221231528/index.m3u8
+23*title*CCTV-3综艺
+24*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000011218&livemode=1&channel-id=ystenlive&test/PLTV/=01
+24*title*CCTV-3综艺
+25*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000011218&livemode=1&channel-id=ystenlive&test/PLTV/=03
+25*title*CCTV-3综艺
+26*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000011218&livemode=1&channel-id=ystenlive&test/PLTV/=04
+26*title*CCTV-3综艺
+27*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000011218&livemode=1&channel-id=ystenlive&test/PLTV/=05
+27*title*CCTV-3综艺
+28*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000011218&livemode=1&channel-id=ystenlive&test/PLTV/=06
+28*title*CCTV-3综艺
+29*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000011218&livemode=1&channel-id=ystenlive&test/PLTV/=07
+29*title*CCTV-3综艺
+30*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000011218&livemode=1&channel-id=ystenlive&test/PLTV/=08
+30*title*CCTV-3综艺
+31*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000011218&livemode=1&channel-id=ystenlive&test/PLTV/=09
+31*title*CCTV-3综艺
+32*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000011218&livemode=1&channel-id=ystenlive&test/PLTV/=10
+32*title*CCTV-3综艺
+33*file*http://39.135.49.20:6610/PLTV/88888888/224/3221227055/1.m3u8?servicetype=1
+33*title*CCTV-3综艺
+34*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000002000031664&livemode=1&channel-id=ystenlive&test/PLTV/=01
+34*title*CCTV-4国际
+35*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000002000031664&livemode=1&channel-id=ystenlive&test/PLTV/=03
+35*title*CCTV-4国际
+36*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000002000031664&livemode=1&channel-id=ystenlive&test/PLTV/=04
+36*title*CCTV-4国际
+37*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000002000031664&livemode=1&channel-id=ystenlive&test/PLTV/=05
+37*title*CCTV-4国际
+38*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000002000031664&livemode=1&channel-id=ystenlive&test/PLTV/=06
+38*title*CCTV-4国际
+39*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000002000031664&livemode=1&channel-id=ystenlive&test/PLTV/=07
+39*title*CCTV-4国际
+40*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000002000031664&livemode=1&channel-id=ystenlive&test/PLTV/=08
+40*title*CCTV-4国际
+41*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000002000031664&livemode=1&channel-id=ystenlive&test/PLTV/=09
+41*title*CCTV-4国际
+42*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000002000031664&livemode=1&channel-id=ystenlive&test/PLTV/=10
+42*title*CCTV-4国际
+43*file*http://39.135.49.20:6610/PLTV/88888888/224/3221226968/1.m3u8?servicetype=1
+43*title*CCTV-4国际
+44*file*http://117.148.179.162/PLTV/88888888/224/3221231615/index.m3u8
+44*title*CCTV-4欧洲
+45*file*http://117.148.179.158/PLTV/88888888/224/3221231654/index.m3u8
+45*title*CCTV-4美洲
+46*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000004794&livemode=1&channel-id=ystenlive&test/PLTV/=01
+46*title*CCTV-5体育
+47*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000004794&livemode=1&channel-id=ystenlive&test/PLTV/=03
+47*title*CCTV-5体育
+48*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000004794&livemode=1&channel-id=ystenlive&test/PLTV/=04
+48*title*CCTV-5体育
+49*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000004794&livemode=1&channel-id=ystenlive&test/PLTV/=05
+49*title*CCTV-5体育
+50*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000004794&livemode=1&channel-id=ystenlive&test/PLTV/=06
+50*title*CCTV-5体育
+51*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000004794&livemode=1&channel-id=ystenlive&test/PLTV/=09
+51*title*CCTV-5体育
+52*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000004794&livemode=1&channel-id=ystenlive&test/PLTV/=10
+52*title*CCTV-5体育
+53*file*http://39.135.49.20:6610/PLTV/88888888/224/3221227170/1.m3u8?servicetype=1
+53*title*CCTV-5体育
+54*file*http://117.148.179.139/PLTV/88888888/224/3221231535/index.m3u8
+54*title*CCTV-5Plus体育赛事
+55*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000020505&livemode=1&channel-id=ystenlive&test/PLTV/=01
+55*title*CCTV-5Plus体育赛事
+56*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000020505&livemode=1&channel-id=ystenlive&test/PLTV/=03
+56*title*CCTV-5Plus体育赛事
+57*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000020505&livemode=1&channel-id=ystenlive&test/PLTV/=04
+57*title*CCTV-5Plus体育赛事
+58*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000020505&livemode=1&channel-id=ystenlive&test/PLTV/=05
+58*title*CCTV-5Plus体育赛事
+59*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000020505&livemode=1&channel-id=ystenlive&test/PLTV/=06
+59*title*CCTV-5Plus体育赛事
+60*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000020505&livemode=1&channel-id=ystenlive&test/PLTV/=09
+60*title*CCTV-5Plus体育赛事
+61*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000020505&livemode=1&channel-id=ystenlive&test/PLTV/=10
+61*title*CCTV-5Plus体育赛事
+62*file*http://39.135.49.20:6610/PLTV/88888888/224/3221226919/1.m3u8?servicetype=1
+62*title*CCTV-5Plus体育赛事
+63*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000016466&livemode=1&channel-id=ystenlive&test/PLTV/=01
+63*title*CCTV-6电影
+64*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000016466&livemode=1&channel-id=ystenlive&test/PLTV/=03
+64*title*CCTV-6电影
+65*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000016466&livemode=1&channel-id=ystenlive&test/PLTV/=04
+65*title*CCTV-6电影
+66*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000016466&livemode=1&channel-id=ystenlive&test/PLTV/=05
+66*title*CCTV-6电影
+67*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000016466&livemode=1&channel-id=ystenlive&test/PLTV/=06
+67*title*CCTV-6电影
+68*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000016466&livemode=1&channel-id=ystenlive&test/PLTV/=07
+68*title*CCTV-6电影
+69*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000016466&livemode=1&channel-id=ystenlive&test/PLTV/=09
+69*title*CCTV-6电影
+70*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000016466&livemode=1&channel-id=ystenlive&test/PLTV/=10
+70*title*CCTV-6电影
+71*file*http://39.135.49.20:6610/PLTV/88888888/224/3221227137/1.m3u8?servicetype=1
+71*title*CCTV-6电影
+72*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000017218&livemode=1&channel-id=ystenlive&test/PLTV/=01
+72*title*CCTV-7国防军事
+73*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000017218&livemode=1&channel-id=ystenlive&test/PLTV/=03
+73*title*CCTV-7国防军事
+74*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000017218&livemode=1&channel-id=ystenlive&test/PLTV/=04
+74*title*CCTV-7国防军事
+75*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000017218&livemode=1&channel-id=ystenlive&test/PLTV/=05
+75*title*CCTV-7国防军事
+76*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000017218&livemode=1&channel-id=ystenlive&test/PLTV/=06
+76*title*CCTV-7国防军事
+77*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000017218&livemode=1&channel-id=ystenlive&test/PLTV/=09
+77*title*CCTV-7国防军事
+78*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000017218&livemode=1&channel-id=ystenlive&test/PLTV/=10
+78*title*CCTV-7国防军事
+79*file*http://39.135.49.20:6610/PLTV/88888888/224/3221226972/1.m3u8?servicetype=1
+79*title*CCTV-7国防军事
+80*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000003736&livemode=1&channel-id=ystenlive&test/PLTV/=01
+80*title*CCTV-8电视剧
+81*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000003736&livemode=1&channel-id=ystenlive&test/PLTV/=03
+81*title*CCTV-8电视剧
+82*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000003736&livemode=1&channel-id=ystenlive&test/PLTV/=04
+82*title*CCTV-8电视剧
+83*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000003736&livemode=1&channel-id=ystenlive&test/PLTV/=05
+83*title*CCTV-8电视剧
+84*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000003736&livemode=1&channel-id=ystenlive&test/PLTV/=06
+84*title*CCTV-8电视剧
+85*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000003736&livemode=1&channel-id=ystenlive&test/PLTV/=08
+85*title*CCTV-8电视剧
+86*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000003736&livemode=1&channel-id=ystenlive&test/PLTV/=09
+86*title*CCTV-8电视剧
+87*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000003736&livemode=1&channel-id=ystenlive&test/PLTV/=10
+87*title*CCTV-8电视剧
+88*file*http://39.135.49.20:6610/PLTV/88888888/224/3221227174/1.m3u8?servicetype=1
+88*title*CCTV-8电视剧
+89*file*http://117.148.179.175/PLTV/88888888/224/3221231666/index.m3u8
+89*title*CCTV-10科教
+90*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000026367&livemode=1&channel-id=ystenlive&test/PLTV/=03
+90*title*CCTV-10科教
+91*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000026367&livemode=1&channel-id=ystenlive&test/PLTV/=04
+91*title*CCTV-10科教
+92*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000026367&livemode=1&channel-id=ystenlive&test/PLTV/=05
+92*title*CCTV-10科教
+93*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000026367&livemode=1&channel-id=ystenlive&test/PLTV/=06
+93*title*CCTV-10科教
+94*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000026367&livemode=1&channel-id=ystenlive&test/PLTV/=08
+94*title*CCTV-10科教
+95*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000026367&livemode=1&channel-id=ystenlive&test/PLTV/=09
+95*title*CCTV-10科教
+96*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000026367&livemode=1&channel-id=ystenlive&test/PLTV/=10
+96*title*CCTV-10科教
+97*file*http://39.135.49.20:6610/PLTV/88888888/224/3221226976/1.m3u8?servicetype=1
+97*title*CCTV-10科教
+98*file*http://39.134.65.162/PLTV/88888888/224/3221225517/index.m3u8
+98*title*CCTV-11戏曲
+99*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000002000019789&livemode=1&channel-id=ystenlive&test/PLTV/=01
+99*title*CCTV-11戏曲
+100*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000002000019789&livemode=1&channel-id=ystenlive&test/PLTV/=03
+100*title*CCTV-11戏曲
+101*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000002000019789&livemode=1&channel-id=ystenlive&test/PLTV/=04
+101*title*CCTV-11戏曲
+102*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000002000019789&livemode=1&channel-id=ystenlive&test/PLTV/=05
+102*title*CCTV-11戏曲
+103*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000002000019789&livemode=1&channel-id=ystenlive&test/PLTV/=06
+103*title*CCTV-11戏曲
+104*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000002000019789&livemode=1&channel-id=ystenlive&test/PLTV/=07
+104*title*CCTV-11戏曲
+105*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000002000019789&livemode=1&channel-id=ystenlive&test/PLTV/=08
+105*title*CCTV-11戏曲
+106*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000002000019789&livemode=1&channel-id=ystenlive&test/PLTV/=09
+106*title*CCTV-11戏曲
+107*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000002000019789&livemode=1&channel-id=ystenlive&test/PLTV/=10
+107*title*CCTV-11戏曲
+108*file*http://39.135.49.20:6610/PLTV/88888888/224/3221226927/1.m3u8?servicetype=1
+108*title*CCTV-11戏曲
+109*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000001640&livemode=1&channel-id=ystenlive&test/PLTV/=01
+109*title*CCTV-12社会与法
+110*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000001640&livemode=1&channel-id=ystenlive&test/PLTV/=03
+110*title*CCTV-12社会与法
+111*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000001640&livemode=1&channel-id=ystenlive&test/PLTV/=04
+111*title*CCTV-12社会与法
+112*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000001640&livemode=1&channel-id=ystenlive&test/PLTV/=05
+112*title*CCTV-12社会与法
+113*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000001640&livemode=1&channel-id=ystenlive&test/PLTV/=06
+113*title*CCTV-12社会与法
+114*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000001640&livemode=1&channel-id=ystenlive&test/PLTV/=08
+114*title*CCTV-12社会与法
+115*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000001640&livemode=1&channel-id=ystenlive&test/PLTV/=09
+115*title*CCTV-12社会与法
+116*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000001640&livemode=1&channel-id=ystenlive&test/PLTV/=10
+116*title*CCTV-12社会与法
+117*file*http://39.135.49.20:6610/PLTV/88888888/224/3221226931/1.m3u8?servicetype=1
+117*title*CCTV-12社会与法
+118*file*http://39.135.138.59:18890/PLTV/88888910/224/3221225638/index.m3u8
+118*title*CCTV-13新闻
+119*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000002000021303&livemode=1&channel-id=ystenlive&test/PLTV/=01
+119*title*CCTV-13新闻
+120*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000002000021303&livemode=1&channel-id=ystenlive&test/PLTV/=03
+120*title*CCTV-13新闻
+121*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000002000021303&livemode=1&channel-id=ystenlive&test/PLTV/=04
+121*title*CCTV-13新闻
+122*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000002000021303&livemode=1&channel-id=ystenlive&test/PLTV/=05
+122*title*CCTV-13新闻
+123*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000002000021303&livemode=1&channel-id=ystenlive&test/PLTV/=07
+123*title*CCTV-13新闻
+124*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000002000021303&livemode=1&channel-id=ystenlive&test/PLTV/=08
+124*title*CCTV-13新闻
+125*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000002000021303&livemode=1&channel-id=ystenlive&test/PLTV/=09
+125*title*CCTV-13新闻
+126*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000002000021303&livemode=1&channel-id=ystenlive&test/PLTV/=10
+126*title*CCTV-13新闻
+127*file*http://39.135.49.20:6610/PLTV/88888888/224/3221226985/1.m3u8?servicetype=1
+127*title*CCTV-13新闻
+128*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000021349&livemode=1&channel-id=ystenlive&test/PLTV/=03
+128*title*CCTV-14少儿
+129*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000021349&livemode=1&channel-id=ystenlive&test/PLTV/=04
+129*title*CCTV-14少儿
+130*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000021349&livemode=1&channel-id=ystenlive&test/PLTV/=05
+130*title*CCTV-14少儿
+131*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000021349&livemode=1&channel-id=ystenlive&test/PLTV/=06
+131*title*CCTV-14少儿
+132*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000021349&livemode=1&channel-id=ystenlive&test/PLTV/=08
+132*title*CCTV-14少儿
+133*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000021349&livemode=1&channel-id=ystenlive&test/PLTV/=09
+133*title*CCTV-14少儿
+134*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000021349&livemode=1&channel-id=ystenlive&test/PLTV/=10
+134*title*CCTV-14少儿
+135*file*http://39.135.49.20:6610/PLTV/88888888/224/3221227086/1.m3u8?servicetype=1
+135*title*CCTV-14少儿
+136*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000002000008163&livemode=1&channel-id=ystenlive&test/PLTV/=01
+136*title*CCTV-15音乐
+137*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000002000008163&livemode=1&channel-id=ystenlive&test/PLTV/=03
+137*title*CCTV-15音乐
+138*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000002000008163&livemode=1&channel-id=ystenlive&test/PLTV/=04
+138*title*CCTV-15音乐
+139*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000002000008163&livemode=1&channel-id=ystenlive&test/PLTV/=05
+139*title*CCTV-15音乐
+140*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000002000008163&livemode=1&channel-id=ystenlive&test/PLTV/=06
+140*title*CCTV-15音乐
+141*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000002000008163&livemode=1&channel-id=ystenlive&test/PLTV/=07
+141*title*CCTV-15音乐
+142*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000002000008163&livemode=1&channel-id=ystenlive&test/PLTV/=08
+142*title*CCTV-15音乐
+143*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000002000008163&livemode=1&channel-id=ystenlive&test/PLTV/=09
+143*title*CCTV-15音乐
+144*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000002000008163&livemode=1&channel-id=ystenlive&test/PLTV/=10
+144*title*CCTV-15音乐
+145*file*http://39.135.49.20:6610/PLTV/88888888/224/3221226989/1.m3u8?servicetype=1
+145*title*CCTV-15音乐
+146*file*http://iptv.tvfix.org/hls/cctv16hd.m3u8
+146*title*CCTV-16奥林匹克
+147*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000006000233001&livemode=1&channel-id=ystenlive&test/PLTV/=01
+147*title*CCTV-16奥林匹克
+148*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000006000233001&livemode=1&channel-id=ystenlive&test/PLTV/=03
+148*title*CCTV-16奥林匹克
+149*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000006000233001&livemode=1&channel-id=ystenlive&test/PLTV/=04
+149*title*CCTV-16奥林匹克
+150*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000006000233001&livemode=1&channel-id=ystenlive&test/PLTV/=05
+150*title*CCTV-16奥林匹克
+151*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000006000233001&livemode=1&channel-id=ystenlive&test/PLTV/=06
+151*title*CCTV-16奥林匹克
+152*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000006000233001&livemode=1&channel-id=ystenlive&test/PLTV/=07
+152*title*CCTV-16奥林匹克
+153*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000006000233001&livemode=1&channel-id=ystenlive&test/PLTV/=08
+153*title*CCTV-16奥林匹克
+154*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000006000233001&livemode=1&channel-id=ystenlive&test/PLTV/=09
+154*title*CCTV-16奥林匹克
+155*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000006000233001&livemode=1&channel-id=ystenlive&test/PLTV/=10
+155*title*CCTV-16奥林匹克
+156*file*http://39.135.49.20:6610/PLTV/88888888/224/3221227125/1.m3u8?servicetype=1
+156*title*CCTV-16奥林匹克
+157*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000005000056836&livemode=1&channel-id=ystenlive&test/PLTV/=01
+157*title*CCTV-17农业农村
+158*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000005000056836&livemode=1&channel-id=ystenlive&test/PLTV/=03
+158*title*CCTV-17农业农村
+159*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000005000056836&livemode=1&channel-id=ystenlive&test/PLTV/=05
+159*title*CCTV-17农业农村
+160*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000005000056836&livemode=1&channel-id=ystenlive&test/PLTV/=09
+160*title*CCTV-17农业农村
+161*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000005000056836&livemode=1&channel-id=ystenlive&test/PLTV/=10
+161*title*CCTV-17农业农村
+162*file*http://39.135.49.20:6610/PLTV/88888888/224/3221226986/1.m3u8?servicetype=1
+162*title*CCTV-17农业农村
+163*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000028286&livemode=1&channel-id=ystenlive&test/PLTV/=01
+163*title*CCTV-9纪录
+164*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000028286&livemode=1&channel-id=ystenlive&test/PLTV/=03
+164*title*CCTV-9纪录
+165*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000028286&livemode=1&channel-id=ystenlive&test/PLTV/=04
+165*title*CCTV-9纪录
+166*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000028286&livemode=1&channel-id=ystenlive&test/PLTV/=05
+166*title*CCTV-9纪录
+167*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000028286&livemode=1&channel-id=ystenlive&test/PLTV/=06
+167*title*CCTV-9纪录
+168*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000028286&livemode=1&channel-id=ystenlive&test/PLTV/=08
+168*title*CCTV-9纪录
+169*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000028286&livemode=1&channel-id=ystenlive&test/PLTV/=09
+169*title*CCTV-9纪录
+170*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000028286&livemode=1&channel-id=ystenlive&test/PLTV/=10
+170*title*CCTV-9纪录
+171*file*http://39.135.49.20:6610/PLTV/88888888/224/3221226923/1.m3u8?servicetype=1
+171*title*CCTV-9纪录
+172*file*http://39.136.12.4:6610/PLTV/88888888/224/3221225675/1/index.m3u8?fmt=ts2hls&ispcode=6
+172*title*CCTV央视精品
+173*file*http://39.136.12.4:6610/PLTV/88888888/224/3221226100/1/index.m3u8?fmt=ts2hls&ispcode=6
+173*title*CCTV央视精品
+174*file*http://39.136.12.4:6610/PLTV/88888888/224/3221225733/1/index.m3u8?fmt=ts2hls&ispcode=6
+174*title*CCTV世界地理
+175*file*http://39.136.12.4:6610/PLTV/88888888/224/3221226071/1/index.m3u8?fmt=ts2hls&ispcode=6
+175*title*CCTV世界地理
+176*file*http://39.136.12.4:6610/PLTV/88888888/224/3221225676/1/index.m3u8?fmt=ts2hls&ispcode=6
+176*title*CCTV兵器科技
+177*file*http://39.136.12.4:6610/PLTV/88888888/224/3221226111/1/index.m3u8?fmt=ts2hls&ispcode=6
+177*title*CCTV兵器科技
+178*file*http://39.136.12.4:6610/PLTV/88888888/224/3221225699/1/index.m3u8?fmt=ts2hls&ispcode=6
+178*title*CCTV女性时尚
+179*file*http://39.136.12.4:6610/PLTV/88888888/224/3221226104/1/index.m3u8?fmt=ts2hls&ispcode=6
+179*title*CCTV女性时尚
+180*file*http://39.136.12.4:6610/PLTV/88888888/224/3221225765/1/index.m3u8?fmt=ts2hls&ispcode=6
+180*title*CCTV怀旧剧场
+181*file*http://39.136.12.4:6610/PLTV/88888888/224/3221226097/1/index.m3u8?fmt=ts2hls&ispcode=6
+181*title*CCTV怀旧剧场
+182*file*http://39.136.12.4:6610/PLTV/88888888/224/3221225702/1/index.m3u8?fmt=ts2hls&ispcode=6
+182*title*CCTV第一剧场
+183*file*http://39.136.12.4:6610/PLTV/88888888/224/3221226124/1/index.m3u8?fmt=ts2hls&ispcode=6
+183*title*CCTV第一剧场
+184*file*http://39.136.12.4:6610/PLTV/88888888/224/3221225700/1/index.m3u8?fmt=ts2hls&ispcode=6
+184*title*CCTV风云剧场
+185*file*http://39.136.12.4:6610/PLTV/88888888/224/3221226107/1/index.m3u8?fmt=ts2hls&ispcode=6
+185*title*CCTV风云剧场
+186*file*http://39.136.12.4:6610/PLTV/88888888/224/3221225698/1/index.m3u8?fmt=ts2hls&ispcode=6
+186*title*CCTV风云音乐
+187*file*http://39.136.12.4:6610/PLTV/88888888/224/3221226083/1/index.m3u8?fmt=ts2hls&ispcode=6
+187*title*CCTV风云音乐
+188*file*http://39.136.12.4:6610/PLTV/88888888/224/3221225734/1/index.m3u8?fmt=ts2hls&ispcode=6
+188*title*CCTV风云足球
+189*file*http://39.136.12.4:6610/PLTV/88888888/224/3221226153/1/index.m3u8?fmt=ts2hls&ispcode=6
+189*title*CCTV风云足球
+190*file*http://39.136.12.4:6610/PLTV/88888888/224/3221226117/1/index.m3u8?fmt=ts2hls&ispcode=6
+190*title*CCTV央视台球
+191*file*http://39.136.12.4:6610/PLTV/88888888/224/3221226156/1/index.m3u8?fmt=ts2hls&ispcode=6
+191*title*CCTV央视台球
+192*file*http://39.136.12.4:6610/PLTV/88888888/224/3221225673/1/index.m3u8?fmt=ts2hls&ispcode=6
+192*title*CCTV电视指南
+193*file*http://39.136.12.4:6610/PLTV/88888888/224/3221226120/1/index.m3u8?fmt=ts2hls&ispcode=6
+193*title*CCTV电视指南
+194*file*http://39.136.12.4:6610/PLTV/88888888/224/3221225674/1/index.m3u8?fmt=ts2hls&ispcode=6
+194*title*CCTV高尔夫网球
+195*file*http://39.136.12.4:6610/PLTV/88888888/224/3221226114/1/index.m3u8?fmt=ts2hls&ispcode=6
+195*title*CCTV高尔夫网球
+196*file*http://117.148.179.174/PLTV/88888888/224/3221231592/index.m3u8
+196*title*CGTN
+197*file*http://39.136.12.4:6610/PLTV/88888888/224/3221226297/1/index.m3u8?fmt=ts2hls&ispcode=6
+197*title*CGTN
+198*file*http://117.148.179.144/PLTV/88888888/224/3221231492/index.m3u8
+198*title*CGTN记录
+199*file*http://117.148.179.149/PLTV/88888888/224/3221231552/index.m3u8
+199*title*CETV1
+200*file*http://117.148.179.162/PLTV/88888888/224/3221231607/index.m3u8
+200*title*CETV2
+201*file*http://117.148.179.136/PLTV/88888888/224/3221231543/index.m3u8
+201*title*CETV3
+202*file*http://117.148.179.155/PLTV/88888888/224/3221231613/index.m3u8
+202*title*CETV4
+203*file*http://117.148.179.168/PLTV/88888888/224/3221231732/index.m3u8
+203*title*北京卫视
+204*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000017156&livemode=1&channel-id=ystenlive&test/PLTV/=01
+204*title*北京卫视
+205*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000017156&livemode=1&channel-id=ystenlive&test/PLTV/=03
+205*title*北京卫视
+206*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000017156&livemode=1&channel-id=ystenlive&test/PLTV/=04
+206*title*北京卫视
+207*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000017156&livemode=1&channel-id=ystenlive&test/PLTV/=05
+207*title*北京卫视
+208*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000017156&livemode=1&channel-id=ystenlive&test/PLTV/=06
+208*title*北京卫视
+209*file*http://39.135.49.20:6610/PLTV/88888888/224/3221227246/1.m3u8?servicetype=1
+209*title*北京卫视
+210*file*http://117.148.179.146/PLTV/88888888/224/3221228905/index.m3u8
+210*title*天津卫视
+211*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000000831&livemode=1&channel-id=ystenlive&test/PLTV/=01
+211*title*天津卫视
+212*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000000831&livemode=1&channel-id=ystenlive&test/PLTV/=03
+212*title*天津卫视
+213*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000000831&livemode=1&channel-id=ystenlive&test/PLTV/=04
+213*title*天津卫视
+214*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000000831&livemode=1&channel-id=ystenlive&test/PLTV/=05
+214*title*天津卫视
+215*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000000831&livemode=1&channel-id=ystenlive&test/PLTV/=06
+215*title*天津卫视
+216*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000000831&livemode=1&channel-id=ystenlive&test/PLTV/=08
+216*title*天津卫视
+217*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000000831&livemode=1&channel-id=ystenlive&test/PLTV/=09
+217*title*天津卫视
+218*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000000831&livemode=1&channel-id=ystenlive&test/PLTV/=10
+218*title*天津卫视
+219*file*http://39.135.49.20:6610/PLTV/88888888/224/3221227205/1.m3u8?servicetype=1
+219*title*天津卫视
+220*file*http://117.148.179.167/PLTV/88888888/224/3221231450/index.m3u8
+220*title*东方卫视
+221*file*http://39.135.49.20:6610/PLTV/88888888/224/3221227059/1.m3u8?servicetype=1
+221*title*东方卫视
+222*file*http://39.135.49.20:6610/PLTV/88888888/224/3221226603/1.m3u8?servicetype=1
+222*title*东方卫视
+223*file*http://39.135.49.20:6610/PLTV/88888888/224/3221226895/1.m3u8?servicetype=1
+223*title*东方卫视
+224*file*http://39.135.49.20:6610/PLTV/88888888/224/3221226560/1.m3u8?servicetype=1
+224*title*东方卫视
+225*file*http://117.148.179.175/PLTV/88888888/224/3221231447/index.m3u8
+225*title*江苏卫视
+226*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000004684&livemode=1&channel-id=ystenlive&test/PLTV/=03
+226*title*江苏卫视
+227*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000004684&livemode=1&channel-id=ystenlive&test/PLTV/=04
+227*title*江苏卫视
+228*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000004684&livemode=1&channel-id=ystenlive&test/PLTV/=05
+228*title*江苏卫视
+229*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000004684&livemode=1&channel-id=ystenlive&test/PLTV/=06
+229*title*江苏卫视
+230*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000004684&livemode=1&channel-id=ystenlive&test/PLTV/=08
+230*title*江苏卫视
+231*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000004684&livemode=1&channel-id=ystenlive&test/PLTV/=09
+231*title*江苏卫视
+232*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000004684&livemode=1&channel-id=ystenlive&test/PLTV/=10
+232*title*江苏卫视
+233*file*http://39.135.49.20:6610/PLTV/88888888/224/3221227160/1.m3u8?servicetype=1
+233*title*江苏卫视
+234*file*http://117.148.179.140/PLTV/88888888/224/3221229352/index.m3u8
+234*title*浙江卫视
+235*file*http://117.148.179.136/PLTV/88888888/224/3221231567/index.m3u8
+235*title*浙江卫视
+236*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000009806&livemode=1&channel-id=ystenlive&test/PLTV/=03
+236*title*浙江卫视
+237*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000009806&livemode=1&channel-id=ystenlive&test/PLTV/=04
+237*title*浙江卫视
+238*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000009806&livemode=1&channel-id=ystenlive&test/PLTV/=05
+238*title*浙江卫视
+239*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000009806&livemode=1&channel-id=ystenlive&test/PLTV/=06
+239*title*浙江卫视
+240*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000009806&livemode=1&channel-id=ystenlive&test/PLTV/=08
+240*title*浙江卫视
+241*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000009806&livemode=1&channel-id=ystenlive&test/PLTV/=09
+241*title*浙江卫视
+242*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000009806&livemode=1&channel-id=ystenlive&test/PLTV/=10
+242*title*浙江卫视
+243*file*http://39.135.49.20:6610/PLTV/88888888/224/3221227193/1.m3u8?servicetype=1
+243*title*浙江卫视
+244*file*http://117.148.179.172/PLTV/88888888/224/3221231729/index.m3u8
+244*title*湖南卫视
+245*file*http://117.148.179.135/PLTV/88888888/224/3221230206/index.m3u8
+245*title*湖南卫视
+246*file*http://117.148.179.148/PLTV/88888888/224/3221230824/index.m3u8
+246*title*湖南卫视
+247*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000009115&livemode=1&channel-id=ystenlive&test/PLTV/=01
+247*title*湖南卫视
+248*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000009115&livemode=1&channel-id=ystenlive&test/PLTV/=03
+248*title*湖南卫视
+249*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000009115&livemode=1&channel-id=ystenlive&test/PLTV/=04
+249*title*湖南卫视
+250*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000009115&livemode=1&channel-id=ystenlive&test/PLTV/=05
+250*title*湖南卫视
+251*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000009115&livemode=1&channel-id=ystenlive&test/PLTV/=06
+251*title*湖南卫视
+252*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000009115&livemode=1&channel-id=ystenlive&test/PLTV/=07
+252*title*湖南卫视
+253*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000009115&livemode=1&channel-id=ystenlive&test/PLTV/=08
+253*title*湖南卫视
+254*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000009115&livemode=1&channel-id=ystenlive&test/PLTV/=09
+254*title*湖南卫视
+255*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000009115&livemode=1&channel-id=ystenlive&test/PLTV/=10
+255*title*湖南卫视
+256*file*http://39.135.49.20:6610/PLTV/88888888/224/3221227232/1.m3u8?servicetype=1
+256*title*湖南卫视
+257*file*http://39.135.49.20:6610/PLTV/88888888/224/3221226924/1.m3u8?servicetype=1
+257*title*湖南卫视
+258*file*http://39.135.49.20:6610/PLTV/88888888/224/3221226829/1.m3u8?servicetype=1
+258*title*湖南卫视
+259*file*http://117.148.179.142/PLTV/88888888/224/3221231888/index.m3u8
+259*title*湖北卫视
+260*file*http://117.148.179.134/PLTV/88888888/224/3221231523/index.m3u8
+260*title*湖北卫视
+261*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000010355&livemode=1&channel-id=ystenlive&test/PLTV/=03
+261*title*湖北卫视
+262*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000010355&livemode=1&channel-id=ystenlive&test/PLTV/=04
+262*title*湖北卫视
+263*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000010355&livemode=1&channel-id=ystenlive&test/PLTV/=05
+263*title*湖北卫视
+264*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000010355&livemode=1&channel-id=ystenlive&test/PLTV/=06
+264*title*湖北卫视
+265*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000010355&livemode=1&channel-id=ystenlive&test/PLTV/=08
+265*title*湖北卫视
+266*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000010355&livemode=1&channel-id=ystenlive&test/PLTV/=09
+266*title*湖北卫视
+267*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000010355&livemode=1&channel-id=ystenlive&test/PLTV/=10
+267*title*湖北卫视
+268*file*http://117.148.179.177/PLTV/88888888/224/3221230215/index.m3u8
+268*title*安徽卫视
+269*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000020780&livemode=1&channel-id=ystenlive&test/PLTV/=01
+269*title*安徽卫视
+270*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000020780&livemode=1&channel-id=ystenlive&test/PLTV/=03
+270*title*安徽卫视
+271*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000020780&livemode=1&channel-id=ystenlive&test/PLTV/=04
+271*title*安徽卫视
+272*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000020780&livemode=1&channel-id=ystenlive&test/PLTV/=05
+272*title*安徽卫视
+273*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000020780&livemode=1&channel-id=ystenlive&test/PLTV/=06
+273*title*安徽卫视
+274*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000020780&livemode=1&channel-id=ystenlive&test/PLTV/=08
+274*title*安徽卫视
+275*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000020780&livemode=1&channel-id=ystenlive&test/PLTV/=09
+275*title*安徽卫视
+276*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000020780&livemode=1&channel-id=ystenlive&test/PLTV/=10
+276*title*安徽卫视
+277*file*http://39.135.49.20:6610/PLTV/88888888/224/3221227178/1.m3u8?servicetype=1
+277*title*安徽卫视
+278*file*http://117.148.179.141/PLTV/88888888/224/3221231891/index.m3u8
+278*title*广东卫视
+279*file*http://117.148.179.159/PLTV/88888888/224/3221231502/index.m3u8
+279*title*广东卫视
+280*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000028357&livemode=1&channel-id=ystenlive&test/PLTV/=03
+280*title*广东卫视
+281*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000028357&livemode=1&channel-id=ystenlive&test/PLTV/=04
+281*title*广东卫视
+282*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000028357&livemode=1&channel-id=ystenlive&test/PLTV/=05
+282*title*广东卫视
+283*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000028357&livemode=1&channel-id=ystenlive&test/PLTV/=06
+283*title*广东卫视
+284*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000028357&livemode=1&channel-id=ystenlive&test/PLTV/=08
+284*title*广东卫视
+285*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000028357&livemode=1&channel-id=ystenlive&test/PLTV/=09
+285*title*广东卫视
+286*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000028357&livemode=1&channel-id=ystenlive&test/PLTV/=10
+286*title*广东卫视
+287*file*http://39.135.49.20:6610/PLTV/88888888/224/3221227164/1.m3u8?servicetype=1
+287*title*广东卫视
+288*file*http://117.148.179.141/PLTV/88888888/224/3221231964/index.m3u8
+288*title*江西卫视
+289*file*http://117.148.179.157/PLTV/88888888/224/3221231511/index.m3u8
+289*title*江西卫视
+290*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000013731&livemode=1&channel-id=ystenlive&test/PLTV/=03
+290*title*江西卫视
+291*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000013731&livemode=1&channel-id=ystenlive&test/PLTV/=04
+291*title*江西卫视
+292*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000013731&livemode=1&channel-id=ystenlive&test/PLTV/=05
+292*title*江西卫视
+293*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000013731&livemode=1&channel-id=ystenlive&test/PLTV/=06
+293*title*江西卫视
+294*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000013731&livemode=1&channel-id=ystenlive&test/PLTV/=07
+294*title*江西卫视
+295*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000013731&livemode=1&channel-id=ystenlive&test/PLTV/=08
+295*title*江西卫视
+296*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000013731&livemode=1&channel-id=ystenlive&test/PLTV/=09
+296*title*江西卫视
+297*file*http://117.148.179.142/PLTV/88888888/224/3221231885/index.m3u8
+297*title*四川卫视
+298*file*http://117.148.179.176/PLTV/88888888/224/3221231517/index.m3u8
+298*title*四川卫视
+299*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000002000016825&livemode=1&channel-id=ystenlive&test/PLTV/=03
+299*title*四川卫视
+300*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000002000016825&livemode=1&channel-id=ystenlive&test/PLTV/=04
+300*title*四川卫视
+301*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000002000016825&livemode=1&channel-id=ystenlive&test/PLTV/=05
+301*title*四川卫视
+302*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000002000016825&livemode=1&channel-id=ystenlive&test/PLTV/=07
+302*title*四川卫视
+303*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000002000016825&livemode=1&channel-id=ystenlive&test/PLTV/=08
+303*title*四川卫视
+304*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000002000016825&livemode=1&channel-id=ystenlive&test/PLTV/=09
+304*title*四川卫视
+305*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000002000016825&livemode=1&channel-id=ystenlive&test/PLTV/=10
+305*title*四川卫视
+306*file*http://117.148.179.179/PLTV/88888888/224/3221231411/index.m3u8
+306*title*河北卫视
+307*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000002000017118&livemode=1&channel-id=ystenlive&test/PLTV/=01
+307*title*河北卫视
+308*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000002000017118&livemode=1&channel-id=ystenlive&test/PLTV/=03
+308*title*河北卫视
+309*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000002000017118&livemode=1&channel-id=ystenlive&test/PLTV/=04
+309*title*河北卫视
+310*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000002000017118&livemode=1&channel-id=ystenlive&test/PLTV/=05
+310*title*河北卫视
+311*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000002000017118&livemode=1&channel-id=ystenlive&test/PLTV/=06
+311*title*河北卫视
+312*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000002000017118&livemode=1&channel-id=ystenlive&test/PLTV/=07
+312*title*河北卫视
+313*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000002000017118&livemode=1&channel-id=ystenlive&test/PLTV/=08
+313*title*河北卫视
+314*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000002000017118&livemode=1&channel-id=ystenlive&test/PLTV/=09
+314*title*河北卫视
+315*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000002000017118&livemode=1&channel-id=ystenlive&test/PLTV/=10
+315*title*河北卫视
+316*file*http://117.148.179.160/PLTV/88888888/224/3221231676/index.m3u8
+316*title*贵州卫视
+317*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000002000003169&livemode=1&channel-id=ystenlive&test/PLTV/=03
+317*title*贵州卫视
+318*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000002000003169&livemode=1&channel-id=ystenlive&test/PLTV/=05
+318*title*贵州卫视
+319*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000002000003169&livemode=1&channel-id=ystenlive&test/PLTV/=07
+319*title*贵州卫视
+320*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000002000003169&livemode=1&channel-id=ystenlive&test/PLTV/=08
+320*title*贵州卫视
+321*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000002000003169&livemode=1&channel-id=ystenlive&test/PLTV/=09
+321*title*贵州卫视
+322*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000002000003169&livemode=1&channel-id=ystenlive&test/PLTV/=10
+322*title*贵州卫视
+323*file*http://117.148.179.169/PLTV/88888888/224/3221231444/index.m3u8
+323*title*山西卫视
+324*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000002000021220&livemode=1&channel-id=ystenlive&test/PLTV/=01
+324*title*山西卫视
+325*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000002000021220&livemode=1&channel-id=ystenlive&test/PLTV/=03
+325*title*山西卫视
+326*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000002000021220&livemode=1&channel-id=ystenlive&test/PLTV/=04
+326*title*山西卫视
+327*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000002000021220&livemode=1&channel-id=ystenlive&test/PLTV/=05
+327*title*山西卫视
+328*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000002000021220&livemode=1&channel-id=ystenlive&test/PLTV/=06
+328*title*山西卫视
+329*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000002000021220&livemode=1&channel-id=ystenlive&test/PLTV/=07
+329*title*山西卫视
+330*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000002000021220&livemode=1&channel-id=ystenlive&test/PLTV/=08
+330*title*山西卫视
+331*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000002000021220&livemode=1&channel-id=ystenlive&test/PLTV/=09
+331*title*山西卫视
+332*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000002000021220&livemode=1&channel-id=ystenlive&test/PLTV/=10
+332*title*山西卫视
+333*file*http://117.148.179.160/PLTV/88888888/224/3221231414/index.m3u8
+333*title*东南卫视
+334*file*http://39.135.49.20:6610/PLTV/88888888/224/3221227156/1.m3u8?servicetype=1
+334*title*东南卫视
+335*file*http://livecdn.dmqhyadmin.com/hls/sjxinwenzhongxin.m3u8
+335*title*青海卫视
+336*file*http://117.148.179.151/PLTV/88888888/224/3221231435/index.m3u8
+336*title*青海卫视
+337*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000002000013359&livemode=1&channel-id=ystenlive&test/PLTV/=03
+337*title*青海卫视
+338*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000002000013359&livemode=1&channel-id=ystenlive&test/PLTV/=07
+338*title*青海卫视
+339*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000002000013359&livemode=1&channel-id=ystenlive&test/PLTV/=08
+339*title*青海卫视
+340*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000002000013359&livemode=1&channel-id=ystenlive&test/PLTV/=09
+340*title*青海卫视
+341*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000002000013359&livemode=1&channel-id=ystenlive&test/PLTV/=10
+341*title*青海卫视
+342*file*http://117.148.179.141/PLTV/88888888/224/3221231499/index.m3u8
+342*title*云南卫视
+343*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000002000024694&livemode=1&channel-id=ystenlive&test/PLTV/=03
+343*title*云南卫视
+344*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000002000024694&livemode=1&channel-id=ystenlive&test/PLTV/=05
+344*title*云南卫视
+345*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000002000024694&livemode=1&channel-id=ystenlive&test/PLTV/=07
+345*title*云南卫视
+346*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000002000024694&livemode=1&channel-id=ystenlive&test/PLTV/=08
+346*title*云南卫视
+347*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000002000024694&livemode=1&channel-id=ystenlive&test/PLTV/=09
+347*title*云南卫视
+348*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000002000024694&livemode=1&channel-id=ystenlive&test/PLTV/=10
+348*title*云南卫视
+349*file*http://117.148.179.144/PLTV/88888888/224/3221231514/index.m3u8
+349*title*河南卫视
+350*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=7304224304099543804&livemode=1&channel-id=ystenlive&test/PLTV/=01
+350*title*河南卫视
+351*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=7304224304099543804&livemode=1&channel-id=ystenlive&test/PLTV/=03
+351*title*河南卫视
+352*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=7304224304099543804&livemode=1&channel-id=ystenlive&test/PLTV/=04
+352*title*河南卫视
+353*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=7304224304099543804&livemode=1&channel-id=ystenlive&test/PLTV/=05
+353*title*河南卫视
+354*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=7304224304099543804&livemode=1&channel-id=ystenlive&test/PLTV/=06
+354*title*河南卫视
+355*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=7304224304099543804&livemode=1&channel-id=ystenlive&test/PLTV/=07
+355*title*河南卫视
+356*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=7304224304099543804&livemode=1&channel-id=ystenlive&test/PLTV/=08
+356*title*河南卫视
+357*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=7304224304099543804&livemode=1&channel-id=ystenlive&test/PLTV/=09
+357*title*河南卫视
+358*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=7304224304099543804&livemode=1&channel-id=ystenlive&test/PLTV/=10
+358*title*河南卫视
+359*file*http://117.148.179.156/PLTV/88888888/224/3221231408/index.m3u8
+359*title*陕西卫视
+360*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000002000007495&livemode=1&channel-id=ystenlive&test/PLTV/=03
+360*title*陕西卫视
+361*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000002000007495&livemode=1&channel-id=ystenlive&test/PLTV/=04
+361*title*陕西卫视
+362*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000002000007495&livemode=1&channel-id=ystenlive&test/PLTV/=05
+362*title*陕西卫视
+363*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000002000007495&livemode=1&channel-id=ystenlive&test/PLTV/=07
+363*title*陕西卫视
+364*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000002000007495&livemode=1&channel-id=ystenlive&test/PLTV/=08
+364*title*陕西卫视
+365*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000002000007495&livemode=1&channel-id=ystenlive&test/PLTV/=09
+365*title*陕西卫视
+366*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000002000007495&livemode=1&channel-id=ystenlive&test/PLTV/=10
+366*title*陕西卫视
+367*file*http://117.148.179.164/PLTV/88888888/224/3221231472/index.m3u8
+367*title*吉林卫视
+368*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=6042486520432105075&livemode=1&channel-id=ystenlive&test/PLTV/=04
+368*title*吉林卫视
+369*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=6042486520432105075&livemode=1&channel-id=ystenlive&test/PLTV/=06
+369*title*吉林卫视
+370*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=6042486520432105075&livemode=1&channel-id=ystenlive&test/PLTV/=08
+370*title*吉林卫视
+371*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=6042486520432105075&livemode=1&channel-id=ystenlive&test/PLTV/=09
+371*title*吉林卫视
+372*file*http://117.148.179.164/PLTV/88888888/224/3221231600/index.m3u8
+372*title*广西卫视
+373*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000002000019837&livemode=1&channel-id=ystenlive&test/PLTV/=03
+373*title*广西卫视
+374*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000002000019837&livemode=1&channel-id=ystenlive&test/PLTV/=05
+374*title*广西卫视
+375*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000002000019837&livemode=1&channel-id=ystenlive&test/PLTV/=07
+375*title*广西卫视
+376*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000002000019837&livemode=1&channel-id=ystenlive&test/PLTV/=08
+376*title*广西卫视
+377*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000002000019837&livemode=1&channel-id=ystenlive&test/PLTV/=09
+377*title*广西卫视
+378*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000002000019837&livemode=1&channel-id=ystenlive&test/PLTV/=10
+378*title*广西卫视
+379*file*http://117.148.179.134/PLTV/88888888/224/3221229184/index.m3u8
+379*title*厦门卫视
+380*file*http://117.148.179.160/PLTV/88888888/224/3221231441/index.m3u8
+380*title*宁夏卫视
+381*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000002000031451&livemode=1&channel-id=ystenlive&test/PLTV/=03
+381*title*宁夏卫视
+382*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000002000031451&livemode=1&channel-id=ystenlive&test/PLTV/=05
+382*title*宁夏卫视
+383*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000002000031451&livemode=1&channel-id=ystenlive&test/PLTV/=07
+383*title*宁夏卫视
+384*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000002000031451&livemode=1&channel-id=ystenlive&test/PLTV/=08
+384*title*宁夏卫视
+385*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000002000031451&livemode=1&channel-id=ystenlive&test/PLTV/=09
+385*title*宁夏卫视
+386*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000002000031451&livemode=1&channel-id=ystenlive&test/PLTV/=10
+386*title*宁夏卫视
+387*file*http://117.148.179.158/PLTV/88888888/224/3221231393/index.m3u8
+387*title*甘肃卫视
+388*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000002000017827&livemode=1&channel-id=ystenlive&test/PLTV/=03
+388*title*甘肃卫视
+389*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000002000017827&livemode=1&channel-id=ystenlive&test/PLTV/=05
+389*title*甘肃卫视
+390*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000002000017827&livemode=1&channel-id=ystenlive&test/PLTV/=07
+390*title*甘肃卫视
+391*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000002000017827&livemode=1&channel-id=ystenlive&test/PLTV/=08
+391*title*甘肃卫视
+392*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000002000017827&livemode=1&channel-id=ystenlive&test/PLTV/=09
+392*title*甘肃卫视
+393*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000002000017827&livemode=1&channel-id=ystenlive&test/PLTV/=10
+393*title*甘肃卫视
+394*file*http://117.148.179.155/PLTV/88888888/224/3221231508/index.m3u8
+394*title*重庆卫视
+395*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000002000018937&livemode=1&channel-id=ystenlive&test/PLTV/=01
+395*title*重庆卫视
+396*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000002000018937&livemode=1&channel-id=ystenlive&test/PLTV/=03
+396*title*重庆卫视
+397*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000002000018937&livemode=1&channel-id=ystenlive&test/PLTV/=04
+397*title*重庆卫视
+398*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000002000018937&livemode=1&channel-id=ystenlive&test/PLTV/=05
+398*title*重庆卫视
+399*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000002000018937&livemode=1&channel-id=ystenlive&test/PLTV/=06
+399*title*重庆卫视
+400*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000002000018937&livemode=1&channel-id=ystenlive&test/PLTV/=07
+400*title*重庆卫视
+401*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000002000018937&livemode=1&channel-id=ystenlive&test/PLTV/=08
+401*title*重庆卫视
+402*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000002000018937&livemode=1&channel-id=ystenlive&test/PLTV/=09
+402*title*重庆卫视
+403*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000002000018937&livemode=1&channel-id=ystenlive&test/PLTV/=10
+403*title*重庆卫视
+404*file*http://117.148.179.183/PLTV/88888888/224/3221231451/index.m3u8
+404*title*新疆卫视
+405*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000002000029441&livemode=1&channel-id=ystenlive&test/PLTV/=03
+405*title*新疆卫视
+406*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000002000029441&livemode=1&channel-id=ystenlive&test/PLTV/=05
+406*title*新疆卫视
+407*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000002000029441&livemode=1&channel-id=ystenlive&test/PLTV/=07
+407*title*新疆卫视
+408*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000002000029441&livemode=1&channel-id=ystenlive&test/PLTV/=08
+408*title*新疆卫视
+409*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000002000029441&livemode=1&channel-id=ystenlive&test/PLTV/=09
+409*title*新疆卫视
+410*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000002000029441&livemode=1&channel-id=ystenlive&test/PLTV/=10
+410*title*新疆卫视
+411*file*http://117.148.179.162/PLTV/88888888/224/3221231469/index.m3u8
+411*title*兵团卫视
+412*file*http://117.148.179.151/PLTV/88888888/224/3221231478/index.m3u8
+412*title*内蒙古卫视
+413*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000002000014080&livemode=1&channel-id=ystenlive&test/PLTV/=01
+413*title*内蒙古卫视
+414*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000002000014080&livemode=1&channel-id=ystenlive&test/PLTV/=03
+414*title*内蒙古卫视
+415*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000002000014080&livemode=1&channel-id=ystenlive&test/PLTV/=05
+415*title*内蒙古卫视
+416*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000002000014080&livemode=1&channel-id=ystenlive&test/PLTV/=07
+416*title*内蒙古卫视
+417*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000002000014080&livemode=1&channel-id=ystenlive&test/PLTV/=08
+417*title*内蒙古卫视
+418*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000002000014080&livemode=1&channel-id=ystenlive&test/PLTV/=09
+418*title*内蒙古卫视
+419*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000002000014080&livemode=1&channel-id=ystenlive&test/PLTV/=10
+419*title*内蒙古卫视
+420*file*http://117.148.179.141/PLTV/88888888/224/3221231967/index.m3u8
+420*title*黑龙江卫视
+421*file*http://117.148.179.162/PLTV/88888888/224/3221231520/index.m3u8
+421*title*黑龙江卫视
+422*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000009082&livemode=1&channel-id=ystenlive&test/PLTV/=03
+422*title*黑龙江卫视
+423*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000009082&livemode=1&channel-id=ystenlive&test/PLTV/=04
+423*title*黑龙江卫视
+424*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000009082&livemode=1&channel-id=ystenlive&test/PLTV/=05
+424*title*黑龙江卫视
+425*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000009082&livemode=1&channel-id=ystenlive&test/PLTV/=06
+425*title*黑龙江卫视
+426*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000009082&livemode=1&channel-id=ystenlive&test/PLTV/=07
+426*title*黑龙江卫视
+427*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000009082&livemode=1&channel-id=ystenlive&test/PLTV/=08
+427*title*黑龙江卫视
+428*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000009082&livemode=1&channel-id=ystenlive&test/PLTV/=09
+428*title*黑龙江卫视
+429*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000030202&livemode=1&channel-id=ystenlive&test/PLTV/=03
+429*title*上海卫视
+430*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000030202&livemode=1&channel-id=ystenlive&test/PLTV/=04
+430*title*上海卫视
+431*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000030202&livemode=1&channel-id=ystenlive&test/PLTV/=05
+431*title*上海卫视
+432*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000030202&livemode=1&channel-id=ystenlive&test/PLTV/=06
+432*title*上海卫视
+433*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000030202&livemode=1&channel-id=ystenlive&test/PLTV/=08
+433*title*上海卫视
+434*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000030202&livemode=1&channel-id=ystenlive&test/PLTV/=09
+434*title*上海卫视
+435*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000030202&livemode=1&channel-id=ystenlive&test/PLTV/=10
+435*title*上海卫视
+436*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000002000024033&livemode=1&channel-id=ystenlive&test/PLTV/=01
+436*title*辽宁卫视
+437*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000002000024033&livemode=1&channel-id=ystenlive&test/PLTV/=03
+437*title*辽宁卫视
+438*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000002000024033&livemode=1&channel-id=ystenlive&test/PLTV/=05
+438*title*辽宁卫视
+439*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000002000024033&livemode=1&channel-id=ystenlive&test/PLTV/=06
+439*title*辽宁卫视
+440*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000002000024033&livemode=1&channel-id=ystenlive&test/PLTV/=07
+440*title*辽宁卫视
+441*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000002000024033&livemode=1&channel-id=ystenlive&test/PLTV/=08
+441*title*辽宁卫视
+442*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000002000024033&livemode=1&channel-id=ystenlive&test/PLTV/=09
+442*title*辽宁卫视
+443*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000002000024033&livemode=1&channel-id=ystenlive&test/PLTV/=10
+443*title*辽宁卫视
+444*file*http://39.135.49.20:6610/PLTV/88888888/224/3221227141/1.m3u8?servicetype=1
+444*title*辽宁卫视
+445*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000012807&livemode=1&channel-id=ystenlive&test/PLTV/=01
+445*title*山东卫视
+446*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000012807&livemode=1&channel-id=ystenlive&test/PLTV/=03
+446*title*山东卫视
+447*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000012807&livemode=1&channel-id=ystenlive&test/PLTV/=04
+447*title*山东卫视
+448*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000012807&livemode=1&channel-id=ystenlive&test/PLTV/=05
+448*title*山东卫视
+449*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000012807&livemode=1&channel-id=ystenlive&test/PLTV/=06
+449*title*山东卫视
+450*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000012807&livemode=1&channel-id=ystenlive&test/PLTV/=08
+450*title*山东卫视
+451*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000012807&livemode=1&channel-id=ystenlive&test/PLTV/=09
+451*title*山东卫视
+452*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000012807&livemode=1&channel-id=ystenlive&test/PLTV/=10
+452*title*山东卫视
+453*file*http://39.135.49.20:6610/PLTV/88888888/224/3221227236/1.m3u8?servicetype=1
+453*title*山东卫视
+454*file*http://39.135.49.20:6610/PLTV/88888888/224/3221226928/1.m3u8?servicetype=1
+454*title*山东卫视
+455*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000011645&livemode=1&channel-id=ystenlive&test/PLTV/=03
+455*title*深圳卫视
+456*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000011645&livemode=1&channel-id=ystenlive&test/PLTV/=04
+456*title*深圳卫视
+457*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000011645&livemode=1&channel-id=ystenlive&test/PLTV/=05
+457*title*深圳卫视
+458*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000011645&livemode=1&channel-id=ystenlive&test/PLTV/=06
+458*title*深圳卫视
+459*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000011645&livemode=1&channel-id=ystenlive&test/PLTV/=08
+459*title*深圳卫视
+460*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000011645&livemode=1&channel-id=ystenlive&test/PLTV/=09
+460*title*深圳卫视
+461*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000011645&livemode=1&channel-id=ystenlive&test/PLTV/=10
+461*title*深圳卫视
+462*file*http://39.135.49.20:6610/PLTV/88888888/224/3221227242/1.m3u8?servicetype=1
+462*title*深圳卫视
+463*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000002000009263&livemode=1&channel-id=ystenlive&test/PLTV/=01
+463*title*福建卫视
+464*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000002000009263&livemode=1&channel-id=ystenlive&test/PLTV/=03
+464*title*福建卫视
+465*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000002000009263&livemode=1&channel-id=ystenlive&test/PLTV/=04
+465*title*福建卫视
+466*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000002000009263&livemode=1&channel-id=ystenlive&test/PLTV/=05
+466*title*福建卫视
+467*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000002000009263&livemode=1&channel-id=ystenlive&test/PLTV/=07
+467*title*福建卫视
+468*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000002000009263&livemode=1&channel-id=ystenlive&test/PLTV/=08
+468*title*福建卫视
+469*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000002000009263&livemode=1&channel-id=ystenlive&test/PLTV/=09
+469*title*福建卫视
+470*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000002000009263&livemode=1&channel-id=ystenlive&test/PLTV/=10
+470*title*福建卫视
+471*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=7899627377857656087&livemode=1&channel-id=ystenlive&test/PLTV/=01
+471*title*海南卫视
+472*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=7899627377857656087&livemode=1&channel-id=ystenlive&test/PLTV/=03
+472*title*海南卫视
+473*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=7899627377857656087&livemode=1&channel-id=ystenlive&test/PLTV/=04
+473*title*海南卫视
+474*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=7899627377857656087&livemode=1&channel-id=ystenlive&test/PLTV/=05
+474*title*海南卫视
+475*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=7899627377857656087&livemode=1&channel-id=ystenlive&test/PLTV/=06
+475*title*海南卫视
+476*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=7899627377857656087&livemode=1&channel-id=ystenlive&test/PLTV/=07
+476*title*海南卫视
+477*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=7899627377857656087&livemode=1&channel-id=ystenlive&test/PLTV/=09
+477*title*海南卫视
+478*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=7899627377857656087&livemode=1&channel-id=ystenlive&test/PLTV/=10
+478*title*海南卫视
+479*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=6603041244077933770&livemode=1&channel-id=ystenlive&test/PLTV/=01
+479*title*西藏卫视
+480*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=6603041244077933770&livemode=1&channel-id=ystenlive&test/PLTV/=03
+480*title*西藏卫视
+481*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=6603041244077933770&livemode=1&channel-id=ystenlive&test/PLTV/=04
+481*title*西藏卫视
+482*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=6603041244077933770&livemode=1&channel-id=ystenlive&test/PLTV/=05
+482*title*西藏卫视
+483*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=6603041244077933770&livemode=1&channel-id=ystenlive&test/PLTV/=06
+483*title*西藏卫视
+484*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=6603041244077933770&livemode=1&channel-id=ystenlive&test/PLTV/=07
+484*title*西藏卫视
+485*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=6603041244077933770&livemode=1&channel-id=ystenlive&test/PLTV/=09
+485*title*西藏卫视
+486*file*http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=6603041244077933770&livemode=1&channel-id=ystenlive&test/PLTV/=10
+486*title*西藏卫视
